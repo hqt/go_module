@@ -1,3 +1,3 @@
-module github.com/hqt/go_module/v2.5
+module github.com/hqt/go_module/v3
 
 go 1.14
